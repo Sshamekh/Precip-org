@@ -1,5 +1,5 @@
 # Precip-org
-All codes for the paper [Implicit learning of convective organization explains precipitation stochasticity](https://www.authorea.com/doi/full/10.1002/essoar.10512517.1)
+[Implicit learning of convective organization explains precipitation stochasticity](https://www.authorea.com/doi/full/10.1002/essoar.10512517.1)
 
 
 ![alt text](https://github.com/Sshamekh/Precip-org/blob/main/schematicnn.jpg)
