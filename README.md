@@ -1,5 +1,5 @@
 # Precip-org
-This repo contains the PyTorch implementation for paper [Implicit learning of convective organization explains precipitation stochasticity](https://www.authorea.com/doi/full/10.1002/essoar.10512517.1)
+This repo contains the Tensorflow implementation for paper [Implicit learning of convective organization explains precipitation stochasticity](https://www.authorea.com/doi/full/10.1002/essoar.10512517.1)
 
 
 ![alt text](https://github.com/Sshamekh/Precip-org/blob/main/schematicnn.jpg)
