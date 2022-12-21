@@ -5,4 +5,4 @@ The code to train the network is named AE_Pw_NN_precip.py which has org variable
 
 Org_NN has few options including training the decoder or adding RI loss. To change the set-up, json file needs to be up-dated. 
 
-![alt text]
+![alt text](https://github.com/Sshamekh/Precip-org/blob/main/schematicnn.jpg)
